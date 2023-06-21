@@ -1,0 +1,10 @@
+Müşteri Adı: Miray
+Müşteri Soyadı: Ylmaz
+Müşteri TC No: 3123123123
+Müşteri GSM: 543455323
+Kalkış Yeri: Izmr
+Varış Yeri: Antalya
+Ücret: 350TL
+Kilometre: 231
+Plaka: 46UZ3454
+Şoför: Mehmet

@@ -1,0 +1,5 @@
+Akin,Turtul,35995681668,5340614722,AkinTurtul,2004akin
+Akin,Turtul,35995681668,5340614722,akinturtul,2004akin
+Omer,Bayir,35995681668,5340641244,omrtrkbyr,1993omr
+Esra,Guney,35885645652,5324541247,esraguney,2003esra
+Miray,Ylmaz,31231231235,5443445565,mirayyilmaz,1397miray

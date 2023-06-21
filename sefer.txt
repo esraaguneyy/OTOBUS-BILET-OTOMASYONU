@@ -1,0 +1,7 @@
+Istanbul,Ankara,31TL,300KM,34LG7984,Mehmet
+Ankara,Adana,250TL,531KM,34LG7984,AKIN
+Izmçr,Antalya,350TL,231,46UZ3454,Mehmet
+Bitlis,Hatay,200TL,233KM,34FM4545,MAHMUT
+Batman,Adana,300 TL,283 KM,34GR4565,Mert
+Hatay,Adiyaman,150 TL,360 KM,34KJ3434,Akin
+Adana,Osmaniye,100 TL,230 KM,34LG7984,Akin

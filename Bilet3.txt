@@ -1,0 +1,10 @@
+Müþteri Adý: Akin
+Müþteri Soyadý: Turtul
+Müþteri TC No: 35995681668
+Müþteri GSM: 5340614722
+Kalkýþ Yeri: Ankara
+Varýþ Yeri: Adana
+Ücret: 250TL
+Kilometre: 531KM
+Plaka: 34LG7984
+Þoför: AKIN
